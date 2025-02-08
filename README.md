@@ -1,12 +1,10 @@
-Here’s your **final** README with the image in the **Overview** section and a 2025 update! 🚀🌩️  
 
----
 
 # 🌩️ NeoWeather: The Last Weather App You'll Ever Need (Or Not) 🚀  
 
 ## 🌎 Overview  
 
-![NeoWeather](neoweather.jpg)  
+![NeoWeather](weather.jpg)  
 
 Hey there, fellow weather geeks, apocalypse preppers, and people who just wanna know if their picnic will be ruined! ☔ Welcome to **NeoWeather**, the only app that predicts rain before your joints start aching. 🦵💨  
 
